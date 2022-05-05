@@ -1,5 +1,5 @@
 
-let primeiroNumero = document.getElementsById("primeiro-numero")
+let primeiroNumero = document.getElementById("primeiro-numero")
 let segundoNumero = document.getElementById("segundo-numero")
 let operacao = document.getElementById("operacao")
 let botao = document.getElementById("btn-calcula")
